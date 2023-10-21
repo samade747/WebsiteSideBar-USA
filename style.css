@@ -44,7 +44,7 @@ body, html{
     flex-direction: column;
     align-items: flex-end;
     gap: 7rem;
-    font-size: 30px;
+    font-size: xx-large;
     margin-right: 30px;
  
    
@@ -53,15 +53,16 @@ body, html{
 .logo-one{
     display: flex;
     justify-content: flex-end;
-    margin-right: 30px;
+    margin-right: 20px;
     margin-top: 30px;
-    margin-bottom: 50px;
+    
     
 
 }
 
 .coding{
-    font-size: xx-large;    
+    font-size: xx-large;
+    padding: 15px;
 }
 
 
