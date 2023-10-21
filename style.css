@@ -15,9 +15,10 @@ body, html{
     flex-direction: column;
     width: 30%;
     height: 100%;
-    border: 5px solid red;
+    
     display: none;
-
+    position: absolute;
+    top: 0;
 }
 
 
