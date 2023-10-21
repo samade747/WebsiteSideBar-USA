@@ -4,3 +4,9 @@ function toggleSidebar(){
 }
 
 document.getElementById('toggleButton').addEventListener('click', toggleSidebar);
+
+
+function katti(){
+    var sidebar1 = document.querySelector('.sideBar');
+    sidebar1.style.display = sidebar1.style.display = 'none';
+}
